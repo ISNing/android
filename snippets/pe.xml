@@ -57,6 +57,7 @@
     <project path="hardware/qcom-caf/sm8250/audio" name="hardware_qcom-caf_sm8250_audio" remote="pe"/>
     <project path="hardware/qcom-caf/sm8250/display" name="hardware_qcom-caf_sm8250_display" remote="pe"/>
     <project path="hardware/qcom-caf/sm8250/media" name="hardware_qcom-caf_sm8250_media" remote="pe"/>
+    <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="pe" />
     <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" remote="pe"/>
     <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="pe"/>
 
